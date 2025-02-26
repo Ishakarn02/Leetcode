@@ -7,7 +7,6 @@ public:
             if(nums[i] != 0){
                 swap(nums[i], nums[non_zero]);
                 non_zero++;
-
             }
         }
     }
